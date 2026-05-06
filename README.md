@@ -102,10 +102,11 @@ const yug = {
 ## ◆ Featured Project — HeroSync
 
 <div align="center">
-
-[![HeroSync](https://github-readme-stats.vercel.app/api/pin/?username=Yug-Dave020&repo=HeroSync&theme=tokyonight&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff)](https://github.com/Yug-Dave020/HeroSync)
-
+ <a href="https://github.com/Yug-Dave020/HeroSync">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yug-Dave020&repo=HeroSync&theme=tokyonight&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff" alt="HeroSync Pin" />
+  </a><br/>
 </div>
+
 
 > **HeroSync** — A production-grade gamified productivity suite with a full AI companion system.
 
@@ -139,16 +140,13 @@ VOLT  ·  The Motivator     ·  "8 DAY STREAK. BLAZING HOT. Don't let it cool do
 ## ◆ GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yug-Dave020&show_icons=true&theme=tokyonight&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-Dave020&layout=compact&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&hide_border=false&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yug-Dave020&theme=tokyonight&border=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff)](https://git.io/streak-stats)
-
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yug-Dave020&show_icons=true&theme=tokyonight&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&hide_border=false&count_private=true" height="180" alt="Yug Stats" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yug-Dave020&layout=compact&theme=tokyonight&border_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
+  <br/><br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Yug-Dave020&theme=tokyonight&border=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
